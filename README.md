@@ -1,4 +1,4 @@
-# LearnESPIDF
+# Learn ESP-IDF
 
 ## About the project
 
