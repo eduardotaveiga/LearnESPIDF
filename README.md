@@ -2,9 +2,7 @@
 
 ## About the project
 
-This repository contains source code examples from my learning journey with ESP-IDF, featured in my Medium articles. Each project is designed to demonstrate key concepts and practical implementations of FreeRTOS and ESP32 development. Check out my articles for detailed explanations and step-by-step guides!
-
-TODO: medium article link
+This repository contains source code examples from my learning journey with ESP-IDF, featured in my [Medium articles](https://medium.com/@etaveiga). Each project is designed to demonstrate key concepts and practical implementations of FreeRTOS and ESP32 development. Check out my articles for detailed explanations and step-by-step guides!
 
 ## License
 
